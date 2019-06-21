@@ -51,4 +51,5 @@ It will support:
 - [Azonmedia\Registry](https://github.com/AzonMedia/registry)
 - [Azonmedia\Routing](https://github.com/AzonMedia/routing)
 - [Azonmedia\SwooleToPsr](https://github.com/AzonMedia/swoole-to-psr)
+- [Azonmedia\SuperglobalWrappers](https://github.com/AzonMedia/superglobal-wrappers)
 - [Azonmedia\UrlRewriting](https://github.com/AzonMedia/url-rewriting)
