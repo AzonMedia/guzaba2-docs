@@ -45,7 +45,7 @@ It will support:
 - [Users](./Users/README.md)
 - [Workers](./Workers/README.md)
 
-## Other Dependencies
+## Dependencies
 - [Azonmedia\Debug](https://github.com/AzonMedia/debug)
 - [Azonmedia\Di](https://github.com/AzonMedia/di)
 - [Azonmedia\PsrToSwoole](https://github.com/AzonMedia/psr-to-swoole)
