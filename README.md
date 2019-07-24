@@ -3,7 +3,7 @@
 ## Overview
 
 Guzaba 2 framework is a PHP framework targeting [Swoole 4.4+](https://www.swoole.co.uk/)
-It follows the following PSRs:
+It adheres to the following PSRs:
 - [PSR 7 - HTTP Messaging Interface](https://www.php-fig.org/psr/psr-7/)
 - [PSR 11 - Container Interface](https://www.php-fig.org/psr/psr-11/)
 - [PSR 15 - HTTP Handlers (Middleware)](https://www.php-fig.org/psr/psr-15/)
