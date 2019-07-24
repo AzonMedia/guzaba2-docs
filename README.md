@@ -2,7 +2,7 @@
 
 ## Overview
 
-Guzaba 2 framework is a PHP framework targeting [Swoole 4.2+](https://www.swoole.co.uk/)
+Guzaba 2 framework is a PHP framework targeting [Swoole 4.4+](https://www.swoole.co.uk/)
 It follows the following PSRs:
 - [PSR 7 - HTTP Messaging Interface](https://www.php-fig.org/psr/psr-7/)
 - [PSR 11 - Container Interface](https://www.php-fig.org/psr/psr-11/)
@@ -18,6 +18,8 @@ It will support:
 ## Basic Topics
 - [Basics](./Basics/README.md)
 - [Initialization](./Initialization/README.md)
+- [Configuration](./Configuration/README.md)
+- [Exceptions](./Exceptions/README.md)
 
 ## Code Sections
 - [Authentication](./Authentication/README.md)
