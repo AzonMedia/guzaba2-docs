@@ -2,7 +2,8 @@
 
 ## Overview
 
-Guzaba 2 framework is a PHP framework targeting [Swoole 4.4+](https://www.swoole.co.uk/)
+Guzaba 2 framework is a PHP framework targeting [Swoole 4.4+](https://www.swoole.co.uk/).
+
 It adheres to the following PSRs:
 - [PSR 7 - HTTP Messaging Interface](https://www.php-fig.org/psr/psr-7/)
 - [PSR 11 - Container Interface](https://www.php-fig.org/psr/psr-11/)
@@ -14,6 +15,14 @@ It works with:
 It will support:
 - [PSR 14 - Event Dispatcher](https://www.php-fig.org/psr/psr-14/)
 - [PSR 17 - HTTP Factories](https://www.php-fig.org/psr/psr-17/)
+
+## Requirements
+- PHP 7.4
+- Swoole 4.4.8
+
+## Optional requirements
+- Mysql 8
+- Redis 4
 
 ## Basic Topics
 - [Basics](./Basics/README.md)
