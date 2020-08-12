@@ -17,6 +17,10 @@ It will support:
 - [PSR 16 - Common Interface for Caching Libraries](https://www.php-fig.org/psr/psr-16/)
 - [PSR 17 - HTTP Factories](https://www.php-fig.org/psr/psr-17/)
 
+## Current version
+
+**v0.0.5**
+[What is new in 0.0.6](./WhatIsNew/0.0.6/)
 
 ## Coding and naming standards, conventions
 The following naming standards and best practices are to be followed in the Guzaba2 development:
