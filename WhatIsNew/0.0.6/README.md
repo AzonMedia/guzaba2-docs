@@ -10,4 +10,5 @@
     - added checks for route overwriting (if the controller is the same overwriting is acceptable)
     - fixed route merge - it is now possible to merge matching routes if they define different methods
     - improved route metadata
+- fixed permission check in ExecutorMiddleware - it was possible to execute the _init() method (if there was such in the controller) even if there is no permission to execute the requested controller method
 
