@@ -40,8 +40,8 @@ The following naming standards and best practices are to be followed in the Guza
 - [Glog](https://github.com/azonmedia/glog)
 
 ## Requirements
-- PHP 7.4.0
-- Swoole 4.4.14
+- PHP 8.0.0
+- Swoole 4.5.0
 
 ## Optional requirements
 - Mysql 8
